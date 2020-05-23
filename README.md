@@ -7,4 +7,4 @@
 
 # Deploy ( Heroku )
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aituglo/ful_boilerplate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aituglo/full_boilerplate)
