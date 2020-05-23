@@ -82,7 +82,7 @@
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "materialize-css": "^1.0.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
