@@ -1,0 +1,21 @@
+# Base
+
+flask
+flask-restful
+flask_script
+flask-cors
+
+# Database
+
+flask_migrate
+flask_sqlalchemy
+psycopg2
+
+# User Login
+
+passlib
+flask_jwt_extended
+
+# Production
+
+uwsgi

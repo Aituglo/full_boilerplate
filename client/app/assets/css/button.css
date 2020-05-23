@@ -1,0 +1,16 @@
+button {
+    border: none;
+    outline: none;
+}
+
+.avatar-button {
+  position: fixed;
+  bottom: 50px;
+  right: 4%;
+}
+
+@media only screen and (max-width: 1600px) {
+  .avatar-button {
+    display: none;
+  }
+}

@@ -1,0 +1,12 @@
+
+*.py[co]
+__pycache__
+*.pyc
+.cache
+.vscode
+
+.git
+
+backend/data.db
+
+venv
