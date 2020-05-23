@@ -1,1 +1,1 @@
-web: npm install && npm build && uwsgi uwsgi.ini
+web: uwsgi uwsgi.ini
