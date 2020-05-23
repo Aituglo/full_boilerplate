@@ -1,1 +1,1 @@
-web: cd client && npm install && npm build && cd .. && uwsgi uwsgi.ini
+web: npm install && npm build && uwsgi uwsgi.ini

@@ -9,7 +9,7 @@ from backend.config import Config
 from backend.models import RevokedToken
 
 def create_app(config=Config):
-    app = Flask(__name__, template_folder='../client/build', static_folder='../client/build')
+    app = Flask(__name__, template_folder='../build', static_folder='../build')
 
     CORS(app)
     app.config.from_object(config)
@@ -18,7 +18,7 @@ def create_app(config=Config):
 
     with app.app_context():
         db.create_all()
-    
+
     return app
 
 def register_extensions(app):
