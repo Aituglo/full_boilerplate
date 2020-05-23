@@ -1,1 +1,1 @@
-web: uwsgi uwsgi.ini
+web: cd client && yarn install && yarn build && cd .. && uwsgi uwsgi.ini
